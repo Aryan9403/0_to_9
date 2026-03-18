@@ -1,7 +1,6 @@
 # MNIST CNN
 
 A minimal convolutional neural network trained on MNIST in PyTorch.
-Annotated to map directly to deep learning fundamentals: conv filters, ReLU, forward/backward pass, loss, weight updates, epochs, and batches.
 
 ## Files
 
