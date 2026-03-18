@@ -26,7 +26,7 @@ python train.py
 3. Clone this repo:
 
 ```python
-!git clone https://github.com/your-username/mnist-cnn.git
+!git clone https://github.com/Aryan9403/0_to_9.git
 %cd mnist-cnn
 ```
 
