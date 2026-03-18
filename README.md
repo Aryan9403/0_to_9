@@ -6,7 +6,7 @@ A minimal convolutional neural network trained on MNIST in PyTorch.
 
 | File | Purpose |
 |------|---------|
-| `model.py` | `MnistCNN` — two conv blocks + two FC layers |
+| `model.py` | `MnistCNN` - two conv blocks + two FC layers |
 | `data.py` | Downloads MNIST and returns train/test `DataLoader`s |
 | `train.py` | Training loop, evaluation, entry point |
 
