@@ -42,7 +42,7 @@ python train.py
 !python train.py
 ```
 
-6. Download the saved model — Colab runtimes are temporary, so save `mnist_cnn.pth` before the session ends:
+6. Download the saved model, Colab runtimes are temporary, so save `mnist_cnn.pth` before the session ends:
 
 ```python
 from google.colab import files
