@@ -36,7 +36,7 @@ python train.py
 !pip install -r requirements.txt -q
 ```
 
-5. Run training — paste this into a cell and run it (do **not** use `!python train.py`, that runs in a subprocess and suppresses all plots):
+5. Run training: paste this into a cell and run it (do **not** use `!python train.py`, that runs in a subprocess and suppresses all plots):
 
 ```python
 %matplotlib inline
