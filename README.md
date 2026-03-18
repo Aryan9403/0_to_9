@@ -27,7 +27,7 @@ python train.py
 
 ```python
 !git clone https://github.com/Aryan9403/0_to_9.git
-%cd mnist-cnn
+%cd 0_to_9
 ```
 
 4. Install dependencies:
